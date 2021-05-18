@@ -1,0 +1,80 @@
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
+foreach x in 4 7 5 45 56 8 do
+y:=x;
+	while y<60
+	do
+		y:=y+1;
+		print y;
+	end
+end
